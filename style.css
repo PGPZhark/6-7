@@ -1,0 +1,48 @@
+body
+{
+    background-color:black;
+    text-align: center;
+    color:green;
+}
+h2
+{
+    padding-top: 10px;
+}
+ul
+{
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+}
+ul li
+{
+    float:left;
+    list-style: none;
+    padding:4px;
+}
+nav ul li
+{
+    padding:12px;
+}
+footer
+{
+    height:50px;
+    background-color: rgb(39, 39, 39);
+}
+footer p
+{
+    padding-top: 15px;
+}
+div/*IDK if I like this or not but I wanted to add at least something more so...*/
+{
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;
+    background-color: rgb(8, 101, 8);
+    color:black;
+}
+iframe
+{
+    border:solid;
+}
